@@ -134,9 +134,7 @@ Este proyecto está estructurado en un Jupyter Notebook que guía al usuario a t
 - Si realizas cambios significativos, considera documentar tus hallazgos y actualizar las secciones correspondientes del notebook.
 
 
-## Resultados y Conclusiones 
-
-[![resultados.webp](https://i.postimg.cc/285dmf2S/resultados.webp)](https://postimg.cc/hhHQb6kk)
+## Resultados y Conclusiones :rocket:
 
 El análisis de los datos de acceso a internet ha revelado una serie de insights significativos y patrones que son esenciales para entender la conectividad digital en las diversas regiones estudiadas. A continuación, se presentan algunos de los hallazgos clave y las conclusiones derivadas del estudio:
 
