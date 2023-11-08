@@ -1,5 +1,6 @@
-###Proyecto Individual 2 Data Analisis de Henry
-#Telecomunicaciones
+### Proyecto Individual 2 Data Analisis de Henry
+
+# Telecomunicaciones
 
 [![1-9-Jb-WE6-P1oc-St-Tf-Hatj-Hxm-Q.jpg](https://i.postimg.cc/kgx8RD0J/1-9-Jb-WE6-P1oc-St-Tf-Hatj-Hxm-Q.jpg)](https://postimg.cc/1834LRR2)
 
