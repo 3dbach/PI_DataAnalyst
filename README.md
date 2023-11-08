@@ -28,7 +28,7 @@ El objetivo central de este análisis es ofrecer una mirada multifacética al es
 Al abordar estas interrogantes, aspiramos a proporcionar un mapa detallado del panorama de la conectividad fija, identificando áreas de oportunidad para el desarrollo de infraestructura y áreas donde la intervención puede ser crucial para mejorar el acceso y la calidad del servicio. Los hallazgos podrían servir de base para futuras investigaciones académicas, guiar la expansión de servicios de los proveedores de internet y ayudar a los formuladores de políticas a priorizar las inversiones en infraestructura tecnológica.
 
 
-## Metodología Analítica
+##  :sparkles: Metodología Analítica :sparkles::sparkles::sparkles:
 Para garantizar la integridad y la reproducibilidad de nuestro análisis, hemos adoptado una metodología rigurosa dividida en fases claramente definidas. Cada paso del proceso está documentado de manera exhaustiva en el notebook `eda.ipynb`, permitiendo que otros investigadores y analistas sigan y verifiquen nuestro trabajo.
 
 ### 1. Preparación y Limpieza de Datos
