@@ -51,7 +51,7 @@ Para garantizar la integridad y la reproducibilidad de nuestro análisis, hemos 
 
 Cada fase del análisis está diseñada para construir sobre la anterior, asegurando una comprensión profunda y una interpretación precisa de los datos. El notebook proporciona comentarios detallados y justificaciones para cada decisión tomada
 
-## Tecnologías y Herramientas
+## Tecnologías y Herramientas :sparkles::sparkles::sparkles:
 La realización de este análisis fue posible gracias a la siguiente suite de tecnologías y herramientas, cada una seleccionada por su robustez y capacidades específicas en el manejo y visualización de datos:
 
 - **Python:** Lenguaje de programación de alto nivel con una sintaxis clara y legible, elegido por su amplio ecosistema de bibliotecas de ciencia de datos.
@@ -64,7 +64,7 @@ La realización de este análisis fue posible gracias a la siguiente suite de te
 Estas herramientas se combinaron para crear un flujo de trabajo de análisis de datos que es tanto eficiente como reproducible.
 
 
-## Instalación y Configuración
+## Instalación y Configuración :sparkles::sparkles::sparkles:
 Para reproducir este análisis y mantener un entorno de desarrollo consistente, recomendamos la creación de un entorno virtual en Python. A continuación, se detallan los pasos para configurar el proyecto y sus dependencias:
 
 ### Creación de un Entorno Virtual (Opcional)
@@ -111,7 +111,7 @@ Navega hasta el archivo `eda.ipynb` en la interfaz de usuario de Jupyter que se 
 Siguiendo estos pasos, podrás configurar tu entorno y ejecutar el notebook sin problemas.
 
 
-## Uso
+## Uso :sparkles::sparkles::sparkles:
 Este proyecto está estructurado en un Jupyter Notebook que guía al usuario a través de cada etapa del análisis de datos, desde la carga del conjunto de datos hasta las visualizaciones finales. Aquí hay una guía paso a paso sobre cómo interactuar con el notebook:
 
 ### Navegación del Notebook
@@ -134,7 +134,7 @@ Este proyecto está estructurado en un Jupyter Notebook que guía al usuario a t
 - Si realizas cambios significativos, considera documentar tus hallazgos y actualizar las secciones correspondientes del notebook.
 
 
-## Resultados y Conclusiones :rocket:
+## Resultados y Conclusiones :sparkles::sparkles::sparkles: :rocket:
 
 El análisis de los datos de acceso a internet ha revelado una serie de insights significativos y patrones que son esenciales para entender la conectividad digital en las diversas regiones estudiadas. A continuación, se presentan algunos de los hallazgos clave y las conclusiones derivadas del estudio:
 
@@ -152,7 +152,7 @@ Estos resultados no solo proporcionan una instantánea del estado actual de la c
 La investigación de los datos sugiere que para mejorar la conectividad y cerrar la brecha digital, es necesario un enfoque multifacético que incluya el desarrollo de infraestructura, políticas de fomento de la competencia y programas de alfabetización digital. Además, se recomienda una colaboración más estrecha entre los sectores público y privado para maximizar los recursos y la eficacia de las iniciativas de conectividad.
 
 
-## Contribución y Colaboración
+## Contribución y Colaboración :sparkles::sparkles::sparkles:
 Animamos a los interesados en contribuir al proyecto a enviar pull requests o abrir issues para discutir mejoras o añadir funcionalidades.
 
 
