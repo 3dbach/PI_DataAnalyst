@@ -134,8 +134,25 @@ Este proyecto está estructurado en un Jupyter Notebook que guía al usuario a t
 - Si realizas cambios significativos, considera documentar tus hallazgos y actualizar las secciones correspondientes del notebook.
 
 
-## Resultados y Conclusiones
-El análisis reveló patrones interesantes y áreas de preocupación en cuanto a la distribución y acceso de las tecnologías de internet. Las conclusiones detalladas están documentadas en el notebook y son esenciales para entender las dinámicas subyacentes del mercado de internet.
+## Resultados y Conclusiones 
+
+[![resultados.webp](https://i.postimg.cc/285dmf2S/resultados.webp)](https://postimg.cc/hhHQb6kk)
+
+El análisis de los datos de acceso a internet ha revelado una serie de insights significativos y patrones que son esenciales para entender la conectividad digital en las diversas regiones estudiadas. A continuación, se presentan algunos de los hallazgos clave y las conclusiones derivadas del estudio:
+
+- **Distribución Tecnológica:** Hemos identificado que la tecnología ADSL todavía domina en numerosas localidades, aunque la fibra óptica está ganando terreno rápidamente, especialmente en áreas urbanas. Esto refleja una tendencia hacia una infraestructura de internet más moderna y rápida.
+  
+- **Disparidades Urbano-Rurales:** El análisis destacó una brecha significativa entre las áreas urbanas y rurales en términos de disponibilidad y diversidad de tecnologías de acceso a internet. Las zonas rurales tienden a tener menos opciones, lo que sugiere una oportunidad y necesidad de expansión de servicios.
+  
+- **Adopción de Nuevas Tecnologías:** Se observó que las localidades con mayor densidad de población son más rápidas en adoptar tecnologías emergentes como la fibra óptica. Esto podría atribuirse a la mayor demanda y a la viabilidad económica de invertir en infraestructura avanzada en áreas densamente pobladas.
+  
+- **Barreras para la Adopción:** A través de la detección de anomalías y el análisis de outliers, identificamos factores que pueden estar obstaculizando la adopción de tecnologías de internet fijo más avanzadas, como la limitada infraestructura existente y las políticas de inversión.
+
+Estos resultados no solo proporcionan una instantánea del estado actual de la conectividad a internet fijo sino que también ofrecen una base para la toma de decisiones informadas por parte de las partes interesadas. Las telecomunicaciones, los organismos gubernamentales y los planificadores urbanos pueden utilizar estos datos para priorizar las inversiones y estrategias de expansión.
+
+### Conclusiones Fundamentadas
+La investigación de los datos sugiere que para mejorar la conectividad y cerrar la brecha digital, es necesario un enfoque multifacético que incluya el desarrollo de infraestructura, políticas de fomento de la competencia y programas de alfabetización digital. Además, se recomienda una colaboración más estrecha entre los sectores público y privado para maximizar los recursos y la eficacia de las iniciativas de conectividad.
+
 
 ## Contribución y Colaboración
 Animamos a los interesados en contribuir al proyecto a enviar pull requests o abrir issues para discutir mejoras o añadir funcionalidades.
